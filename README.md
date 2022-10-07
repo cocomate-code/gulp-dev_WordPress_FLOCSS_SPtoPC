@@ -5,7 +5,8 @@
 - Gulp 4系
 
 ## 使い方
-- ダウンロードしたフォルダをvscodeで開く
+- gulp-dev_WordPress_FLOCSS_SPtoPCフォルダの中身を、WordPress環境のapp/public/wp-content/themes直下に配置する
+- themesフォルダをvscodeで開く
 - WordPressThemeフォルダを任意のフォルダ名に変更する
 - gulpfile.jsの7行目のWordPressThemeの部分を上の手順で変更したフォルダ名に変更する
 - gulpfile.jsの23行目にLocalのURLを記載する
